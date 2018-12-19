@@ -1,5 +1,5 @@
 module.exports = {
-	gridWidth: '1140rem',
+	gridWidth: '114rem',
 	gutterVertical: '8rem',
 	gutterHorizontal: '6rem'
 }
